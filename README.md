@@ -32,9 +32,9 @@ Although I started late, I'm going to start now. Hold on. I'm coming.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabsj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Solved.ac/profile/nabsj](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabsj)](https://solved.ac/nabsj)
+[![Solved.ac/profile/nabsj](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabsj)](https://solved.ac/rlawogur0208)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nabsj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rlawogur0208j&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
