@@ -30,7 +30,7 @@ Although I started late, I'm going to start now. Hold on. I'm coming.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabsj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicekim2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Solved.ac/profile/nabsj](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawogur0208)](https://solved.ac/rlawogur0208)
 
