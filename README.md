@@ -20,7 +20,7 @@ Although I started late, I'm going to start now. Hold on. I'm coming.
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicekim2000&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicekim2000&count_bg=%230B666A&title_bg=%2397FEED&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%nicekim2000&count_bg=%230B666A&title_bg=%2397FEED&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawogur0208)](https://solved.ac/eupppo/)
 
 ## 🌟 Experience 
