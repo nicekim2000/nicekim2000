@@ -1,11 +1,5 @@
 # 💫 About Me:
-I want to create a world where AI technology can be helpful and utilized for the betterment of society.
 
-"AI 기술로 세상에 도움이 되고 활용할수 있는 세상을 만들어 가고 싶습니다."
-
-Although I started late, I'm going to start now. Hold on. I'm coming.
-
-"비록 늦었지만, 이제 시작합니다. 꽉잡으세요. 제가 달려갑니다"
 
 
 
