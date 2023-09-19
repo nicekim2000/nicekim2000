@@ -22,4 +22,18 @@ Although I started late, I'm going to start now. Hold on. I'm coming.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicekim2000&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawogur0208)](https://solved.ac/eupppo/)
 
+## 🌟 Experience 
+SKT FLY AI Challenger 3기 2023. 06. ~ 2023. 09.<br>
+TECH4GOOD 해커톤 2023. 09. ~ 2023. 09.<br>
+광운대학교 컴퓨터통신 연구실 학부연구생 2022. 03. ~ <br>
+
+## 🏆 Award
+SKT FLY AI Challenger 개인부분 최우수상(2023. 09. 01.)<br>
+TECH4GOOD 해커톤 대상(2023. 09. 08.)<br>
+
+
+## 📝 Certification
+컴퓨터활용능력 1급 (2021. 09. 17.)<br>
+AI-900(2023. 08. 08.)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
