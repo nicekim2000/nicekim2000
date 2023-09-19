@@ -20,7 +20,6 @@ Although I started late, I'm going to start now. Hold on. I'm coming.
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicekim2000&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicekim2000)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawogur0208)](https://solved.ac/eupppo/)
 
 ## 🌟 Experience 
